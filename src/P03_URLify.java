@@ -1,7 +1,7 @@
 // Write a method to replace all spaces in a string with %20 
 // 
 
-public class P3_URLify {
+public class P03_URLify {
 
 
 	public String replace(String str) {

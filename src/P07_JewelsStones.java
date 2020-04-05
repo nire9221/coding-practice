@@ -1,7 +1,7 @@
 //You're given strings J representing the types of stones that are jewels, and S representing the stones you have. 
 //https://leetcode.com/problems/jewels-and-stones/
 
-public class P7_JewelsStones {
+public class P07_JewelsStones {
     public int numJewelsInStones(String J, String S) {
         
         //J.charAt(0)== S.charAt(0), S.charAt(1)... 

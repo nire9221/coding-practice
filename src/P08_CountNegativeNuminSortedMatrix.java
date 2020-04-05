@@ -1,7 +1,7 @@
 //Given a m * n matrix grid which is sorted in non-increasing order both row-wise and column-wise. 
 //https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 
-public class P8_CountNegativeNuminSortedMatrix {
+public class P08_CountNegativeNuminSortedMatrix {
     public int countNegatives(int[][] grid) {
         int negativeCount = 0;
         

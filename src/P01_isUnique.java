@@ -1,6 +1,6 @@
 //Implement an algorithm to determine if a string has all unique character 
 
-public class P1_isUnique {
+public class P01_isUnique {
 
 	
 	public boolean isUnique(String str) {

@@ -1,7 +1,7 @@
 // Given 2 strings, write a method to decide if one is a permutation of the others   ex) dog <-> god 
 // check case sensitive, white space is significant 
 
-public class P2_permutation {
+public class P02_permutation {
 
 	
 	public boolean permutation(String s, String t) {

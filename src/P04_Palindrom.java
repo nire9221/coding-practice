@@ -1,5 +1,5 @@
 // given a string, write a function to check if it's a permutaion of palindrome
-public class P4_Palindrom {
+public class P04_Palindrom {
 
 	public static void main(String[] args) {
 		String str = "tact coa"; 
